@@ -98,11 +98,11 @@ header {
 
 /* Video Styling */
 .video-wrapper {
-    max-width: 800px; 
+    max-width: 700px; 
     margin: 1rem auto; 
     background-color: white; 
     padding: 1rem; 
-    border-radius: 8px; 
+    border-radius: 7px; 
 }
 
 .video-background {
