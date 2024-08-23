@@ -52,9 +52,9 @@ You can view the live site here: Diva Nails Art
 
 ## Screenshots
 
-Home Page
-Services Section
-Contact Section
+- Home Page
+- Services Section
+- Contact Section
 
 ## Code Attribution
 
