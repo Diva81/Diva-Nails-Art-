@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    line-height: 1.6;
+}
+
+/* Navigation */
+header {
+    background-color: #000000;
+}
+
+.navbar {
+    padding: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    margin-right: auto;
+}
+
+.navbar-brand .logo {
+    max-height: 120px; 
+    width: auto; 
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 1rem;
+}
+
+.navbar-nav .nav-link {
+    color:#dce0e4;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+    transition: color 0.3s ease;
+}
+
+/* Mobile view adjustments */
+@media (max-width: 768px) {
+    .navbar-nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 0.5rem 0;
+    }
+
+    .navbar-brand .logo {
+        max-height: 100px; 
+    }
+}
+
+/* Hero Section */
+.hero {
+    background-color: white; 
+    position: relative;
+    padding: 5rem 1rem;
+    text-align: center;
+}
+
+.hero-text {
+    z-index: 1;
+    color: #000; 
+    background-color: white; 
+    display: inline-block; 
+    padding: 1rem; 
+    border-radius: 8px;
+}
+
+.hero-text h1, .hero-text p {
+    margin: 0; 
+}
+
+.hero-text h1 {
+    font-size: 3rem;
+}
+
+.hero-text p {
+    font-size: 1.5rem;
+    margin-top: 3rem; 
+}
+
+/* Video Styling */
+.video-wrapper {
+    max-width: 800px; 
+    margin: 1rem auto; 
+    background-color: white; 
+    padding: 1rem; 
+    border-radius: 8px; 
+}
+
+.video-background {
+    width: 100%;
+    height: auto; 
+    object-fit: cover;
+}
+
+/* Services Section */
+.services {
+    background-color: white; 
+    color: #333; 
+    padding: 5rem 1rem;
+}
+
+.services h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact Section */
+.contact {
+    background-color: white;  
+    color: #333; 
+    padding: 5rem 1rem;
+}
+
+/* Footer */
+footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 1.5rem 0;
+    text-align: center;
+}
