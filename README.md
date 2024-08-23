@@ -40,22 +40,23 @@ serve -s .
 
 4 **Deployment**:
 
-Deploy the Site:
+- Deploy the Site:
 
-. Use a hosting service like GitHub Pages, Netlify, or Vercel for deployment.
+. Use a hosting service like Netlify for deployment.
 Follow the specific instructions for your chosen platform to deploy the site.
-Update the Live Link:
+
+- Update the Live Link:
 
 . After deploying, update this README.md file with the URL of your live site.
 Live Site
-You can view the live site here: Diva Nails Art
+You can view the live site here: [Diva Nails Art](https://divanailsart.netlify.app/)
 
 ## Screenshots
 
 - Home Section
 - Services Section
 - Contact Section
-- W3C validator HTML, CSS 
+- W3C validator HTML & CSS 
 
 ## Code Attribution
 
