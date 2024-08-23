@@ -52,10 +52,10 @@ You can view the live site here: Diva Nails Art
 
 ## Screenshots
 
-- Home Page
+- Home Section
 - Services Section
 - Contact Section
-- W3C validator 
+- W3C validator HTML, CSS 
 
 ## Code Attribution
 
