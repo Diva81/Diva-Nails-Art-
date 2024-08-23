@@ -55,6 +55,7 @@ You can view the live site here: Diva Nails Art
 - Home Page
 - Services Section
 - Contact Section
+- W3C validator 
 
 ## Code Attribution
 
