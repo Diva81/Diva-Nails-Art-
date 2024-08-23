@@ -50,13 +50,13 @@ Update the Live Link:
 Live Site
 You can view the live site here: Diva Nails Art
 
-##### Screenshots
+## Screenshots
 
 Home Page
 Services Section
 Contact Section
 
-###### Code Attribution
+## Code Attribution
 
 - **CSS Libraries**
 
@@ -74,7 +74,7 @@ Contact Section
 **Bootstrap 4.5.2**: JavaScript components for interactive elements like modals and dropdowns.
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-###### Code Organization
+## Code Organization
 
 **File Structure**
 
@@ -100,24 +100,20 @@ All custom styling is placed in styles.css, which is linked in the <head> of the
 **Assets**: 
 Images, screenshots, and videos are stored in the assets/ directory, organized into subdirectories for easier management.
 
-###### Code Readability
+## Code Readability
 
 **Consistent Indentation**: The code follows consistent 4-space indentation for clarity.
 **Commenting**: Each section in the HTML and CSS is clearly commented, explaining its purpose and any significant code decisions.
 **File Naming**: All files are named using lowercase letters and hyphens, ensuring compatibility across different platforms.
 
-###### Development Log
+## Development Log
 August 20, 2024: Implemented responsive navigation bar and centered logo.
 August 21, 2024: Added video background to the hero section and adjusted text alignment.
 August 22, 2024: Fixed footer alignment and updated CSS styles for improved readability.
 August 23, 2024: Finalized README.md with detailed deployment instructions and updated live site link.
 
-###### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contributing
 
