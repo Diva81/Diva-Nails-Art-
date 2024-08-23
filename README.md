@@ -6,7 +6,7 @@
 
 The **Diva Nails Art** web application showcases luxury nail treatments. It provides users with a visually appealing and interactive platform to explore nail services, view examples of work, and easily get in touch with the business. The site features a modern design, responsive layout, and engaging multimedia elements.
 
-### Value to Users
+## Value to Users
 
 - **Visually Attractive**: Modern design with a dynamic video background.
 - **Responsive**: Optimized for various devices including desktops, tablets, and mobiles.
@@ -15,7 +15,7 @@ The **Diva Nails Art** web application showcases luxury nail treatments. It prov
 - **Direct Communication**: The contact section allows users to quickly get in touch with the salon for inquiries or appointments.
 - **Visual Appeal**: High-quality images and a professional design enhance the user experience and reflect the luxury nature of the services offered.
 
-#### Deployment Procedure
+## Deployment Procedure
 
 - **To deploy the Diva Nails Art website, follow these steps**:
 
