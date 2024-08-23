@@ -39,6 +39,7 @@ npm install -g serve
 serve -s .
 
 4 **Deployment**:
+
 Deploy the Site:
 
 . Use a hosting service like GitHub Pages, Netlify, or Vercel for deployment.
@@ -50,6 +51,7 @@ Live Site
 You can view the live site here: Diva Nails Art
 
 ##### Screenshots
+
 Home Page
 Services Section
 Contact Section
