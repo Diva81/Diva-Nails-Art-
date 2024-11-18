@@ -15,6 +15,18 @@ The **Diva Nails Art** web application showcases luxury nail treatments. It prov
 - **Direct Communication**: The contact section allows users to quickly get in touch with the salon for inquiries or appointments.
 - **Visual Appeal**: High-quality images and a professional design enhance the user experience and reflect the luxury nature of the services offered.
 
+## External Links
+
+- **Libraries and Frameworks**
+Bootstrap 4.5.2: https://getbootstrap.com/
+jQuery 3.5.1: https://jquery.com/
+Popper.js 2.9.3: https://popper.js.org/
+- **Social Media**
+Facebook: https://www.facebook.com/p/Divas-Nunes-100092427050292/
+- **CSS Validation**
+W3C CSS Validator: http://jigsaw.w3.org/css-validator/check/referer
+
+
 ## Deployment Procedure
 
 - **To deploy the Diva Nails Art website, follow these steps**:
@@ -54,9 +66,19 @@ You can view the live site here: [Diva Nails Art](https://divanailsart.netlify.a
 ## Screenshots
 
 - Home Section
+[CI home](/screenshot/home.jpg)
+
 - Services Section
+[CI services](/screenshot/services.jpg)
+
 - Contact Section
+[CI contact](/screenshot/contact.jpg)
+
 - W3C validator HTML & CSS 
+[CI w3c validators](/screenshot/w3c_validator_html_check.jpg)
+[CI w3c validators](/screenshot/w3c_validator_html_no_errors.jpg)
+[CI w3c validators](/screenshot/w3c_validator_css_check.jpg)
+[CI w3c validators](/screenshot/w3c_validator_css_no_errors.jpg)
 
 ## Code Attribution
 
@@ -130,3 +152,4 @@ If you would like to contribute to this project, please follow these guidelines:
 ## Contact
 
 For questions or feedback, please contact [Diva Nunes](divanunes81@gmail.com).
+
