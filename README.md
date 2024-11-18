@@ -152,4 +152,3 @@ If you would like to contribute to this project, please follow these guidelines:
 ## Contact
 
 For questions or feedback, please contact [Diva Nunes](divanunes81@gmail.com).
-
